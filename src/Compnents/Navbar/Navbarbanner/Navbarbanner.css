@@ -1,0 +1,237 @@
+.navbarBanner{
+    display:flex;
+    background-color:#232f3e;
+    height: 39px;
+    justify-content:space-between;
+    color: white;
+    width:100%;
+    
+}
+.navbarBannerOptionsLeft{
+    display:flex;
+    gap:8px;
+    padding:12px;
+    cursor:pointer;
+    width:100%;
+    justify-content:space-between;
+    align-items:center;
+    
+    
+}
+.OptionsNavbarBanner{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:5px;
+    padding:5px;
+    cursor:pointer;
+    &:hover{
+        border-radius:3px;
+        border: 1px solid;
+    }
+    font-weight:500;
+    font-size: 15px;
+
+
+}
+.mxPlayer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:5px;
+    padding:5px;
+    cursor:pointer;
+    &:hover{
+        border-radius:3px;
+        border: 1px solid;
+    }
+}
+.sell{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+
+
+}
+.Amazonpay{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+}
+.giftcards{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.amazonbasics{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.buyagain{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.giftideas{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.books{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.homeimprovment{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.todaydeal{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.customerservice{
+    font-size : 15px;
+    justify-content:center;
+    justify-content:space-between;
+    align-items:center;
+    gap:5px;
+    padding: 2px;
+    cursor:pointer;
+    line-height: 15px;
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.browsinghistory{
+    font-size : 14px;
+    justify-content:center;
+    
+    align-items:center;
+    gap:5px;
+    padding-bottom: 8px;
+    cursor:pointer;
+    line-height: 24px;
+    
+    &:hover{
+        border-radius:3px;
+        border:1px solid;
+
+    }
+
+}
+.allOptionsNavbarBanner{ 
+  color: white;
+  &:hover{
+    border-radius:3px;
+    border:1px solid;
+
+}
+
+}
+
+
